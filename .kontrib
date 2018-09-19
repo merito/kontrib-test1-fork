@@ -1,0 +1,6 @@
+[repo]
+vcs = git
+hosting = github
+develop-branch = develop
+upstream = git@github.com:merito/kontrib-test1.git
+rebase = true
